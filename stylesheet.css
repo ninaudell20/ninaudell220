@@ -1,0 +1,70 @@
+/* You should edit the content below to fit your website */
+
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color: #2C3E50;
+	text-align: center;}
+body {
+	width: 960px;
+	margin: 0 auto;
+	background-color: white;}
+nav {
+	background-color: lavender;
+	padding: 10px;
+	margin: 10px;
+}
+a{
+	color: 2C3E50;
+}
+li{
+	display: inline;
+	padding: 5px;
+}
+section{ 
+	overflow: auto;
+	height:  100%;
+	background-color: F2F4F4;
+	padding: 10px;
+	margin: 10px;
+ }
+article{
+	padding: 10px;
+	margin: 10px;
+	width: 250 px;
+	float: left;
+}
+.mart{
+	background-color:lightgrey;
+	width: 430px;
+	padding: 5px;
+}
+.mart2{ 
+	display:  list-item;
+	text align: left;
+ }
+ .mart3{
+ 	background-color:tan;
+ 	display: inline;
+ 	text-align: center;
+ 	padding: 10px;
+ 	margin: 10px;
+ }
+h2{
+	font-family: cursive;, serif !important;
+}
+h3{
+	font-family: fantasy;
+	color: black;
+}
+footer{
+	background-color: #white;
+	padding:  10px;
+	margin:  10px;
+}
+
+#content {
+	overflow: auto;
+	height: 100%;}
+.column1, .column2, .column3 {
+	float: left;
+	margin: 10px;}
